@@ -1,0 +1,5 @@
+/home/vakk/MonoDevelopProjects/Snake/Snake/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vakk/MonoDevelopProjects/Snake/Snake/bin/Release/Snake.exe.mdb
+/home/vakk/MonoDevelopProjects/Snake/Snake/bin/Release/Snake.exe
+/home/vakk/MonoDevelopProjects/Snake/Snake/obj/x86/Release/Snake.exe
+/home/vakk/MonoDevelopProjects/Snake/Snake/obj/x86/Release/Snake.exe.mdb
